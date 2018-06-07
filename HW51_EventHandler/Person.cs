@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace HW51_EventHandler
+﻿namespace HW51_EventHandler
 {
     delegate string SigningDelegate(string fullName);
      class Person
